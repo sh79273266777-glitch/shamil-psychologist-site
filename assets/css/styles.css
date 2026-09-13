@@ -81,7 +81,7 @@ blockquote p:last-child { margin-bottom: 0; }
 .document-links > a { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); text-decoration: none; font-weight: 550; line-height: 1.5; }
 .document-links a:hover { text-decoration: underline; }
 .document-links small { display: block; margin-top: 7px; font-size: 14px; font-weight: 400; color: var(--muted); }
-.muted { color: var(--muted); font-size: 15px; }
+.muted { color: var(--muted); font-size: 16px; }
 .contact-section { max-width: 1160px; margin: 32px 20px 48px; padding: 32px 24px; border-radius: 12px; background: var(--ink); color: #f4f6ef; }
 .contact-section h2 { color: #fff; font-size: clamp(1.9rem, 4vw, 3rem); }
 .contact-section .eyebrow, .contact-status { color: #d4dfcf; }
